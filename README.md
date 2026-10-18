@@ -1456,6 +1456,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sunrise-Sunset.org](https://sunrise-sunset.org/mcp) `https://api.sunrise-sunset.org/mcp`
   [![Sunrise-Sunset.org MCP connector](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times/badges/score.svg)](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times)
   🔓 - Sunrise, sunset, twilight, golden hour and moon times for any place and date, worldwide.
+- [NWS Weather](https://github.com/Thx93/mcp-weather-server) `https://agent-evidence-api.thx93.workers.dev/weather/mcp`
+  [![NWS Weather MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/weather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/weather)
+  🔓 - US National Weather Service alerts by state and five-period forecasts by latitude/longitude; x402 USDC per call.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
@@ -3602,6 +3605,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Data Tools](https://agent-data-tools.revmesh2074.workers.dev) `https://agent-data-tools.revmesh2074.workers.dev/mcp`
   [![Agent Data Tools MCP connector](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools)
   🔓 - 179 pay-per-call data tools: web and PDF text, domain and sanctions checks, chain reads, prices, weather, time.
+- [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
+  [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
+  🔓 - Cited web evidence and claim verification with per-source retrieval times and content hashes; x402 USDC per call.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
   🔓 - Read any URL or PDF as clean Markdown or JSON, with JS rendering; 5 free calls/day, then x402 USDC per call.
